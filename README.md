@@ -16,5 +16,5 @@ Now create a new Product, create a GET method and navigate to http://localhost:4
 - Cloudinary.com to store images.
 ## Mail Service:
 - MAilerSend
-##Payment Processing
+## Payment Processing
 - Stripe.com
