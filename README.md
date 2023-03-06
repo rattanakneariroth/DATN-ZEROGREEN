@@ -1,4 +1,4 @@
-# Setup ZEROGEEN Project(MERN Stack)
+# Hướng dẫn cài đặt ZEROGEEN Project(MERN Stack)
 ## Backend
 - install node.js 
 - install Express.js, Mongoose and MongoDB NoSQL
