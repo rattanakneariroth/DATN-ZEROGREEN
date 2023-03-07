@@ -13,7 +13,7 @@ Now create a new Product, create a GET method and navigate to http://localhost:4
 - Open your terminal and run npm run dev and run npm start in terminal folder fronend
 - Your app will be open and running on localhost:3000
 ## Cloud Storage:
-- Cloudinary.com to store images.
+- Cloudinary.com to store images https://cloudinary.com/
 ## Mail Service:
 - MailerSend
 ## Payment Processing
