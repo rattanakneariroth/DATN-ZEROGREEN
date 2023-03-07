@@ -17,4 +17,4 @@ Now create a new Product, create a GET method and navigate to http://localhost:4
 ## Mail Service:
 - MailerSend
 ## Payment Processing
-- Stripe.com
+- Stripe.com: https://stripe.com/en-gb-us
